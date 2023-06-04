@@ -163,6 +163,6 @@ const productsArray = [
   { name: 'Product 4', category: 'Books' }
 ];
 
-const filterByCategory = filterProductByCategory(productsArray);
-console.log(filterByCategory('Electronics'));
-console.log(filterByCategory('Books'));
+//const filterByCategory = filterProductByCategory(productsArray);
+//console.log(filterByCategory('Electronics'));
+//console.log(filterByCategory('Books'));
