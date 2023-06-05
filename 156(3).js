@@ -5,4 +5,4 @@ let obj = {
     }
 }
 
-obj.fun()
+//obj.fun()
