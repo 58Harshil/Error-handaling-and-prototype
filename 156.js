@@ -13,7 +13,7 @@ class Product{
 
     display(){
         //console.log(this);
-        console.log("Displaying the current product");
+       // console.log("Displaying the current product");
     }
 }
 
