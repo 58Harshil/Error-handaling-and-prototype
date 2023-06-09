@@ -25,4 +25,4 @@ let x= {
     p: Product
 };
 x.p("Airpods",1500,6)
-console.log(x);
+//console.log(x);
