@@ -5,4 +5,4 @@ const Product =(n,p,r)=>{
 }
 
 const p = new Product("iphone",2500,6)
-console.log(p);
+//console.log(p);
